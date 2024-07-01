@@ -1,0 +1,4 @@
+Nutzername,Geburtsdatum,Kreditkarte_gesperrt,Grund_Sperrung,Transaktion_Grund_Sperrung,Kreditkartenlimit_Euro,Offenes_Volumen,Datum_Letzter_Kontoauszug
+BeckerAn1,12.02.1986,TRUE,Verdacht auf Kreditkartenbetrug,"27,70 Euro an HSR-Train Inc.","500,00","305,45",01.06.2024
+MeyerRi4,16.08.1991,FALSE,None,None,"1500,00","1437,62",05.06.2024
+KellerFl2,04.11.1995,TRUE,Verdacht auf Kreditkartenbetrug,"599,99 Euro an E-Commerce Asia Inc.","750,00","21,02",03.06.2024
